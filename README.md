@@ -1,3 +1,3 @@
-# Cyber-Awareness-Challenge-Hack
+# Cyber-Awareness-Challenge-Hack 2023
 
-Use the script to automatically complete the Cyber Awareness Challenge without doing any courses.
+Will work on 2024 version
